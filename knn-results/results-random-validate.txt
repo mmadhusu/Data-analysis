@@ -1,0 +1,400 @@
+***********Starting run 1******************
+Starting program
+2606
+Mean average score is 0.544001 
+Average score is 1417.666667
+Mean average score is 0.445510 
+Average score is 1161.000000
+************End********************************
+***********Starting run 2******************
+Starting program
+2639
+Mean average score is 0.528483 
+Average score is 1394.666667
+Mean average score is 0.435392 
+Average score is 1149.000000
+************End********************************
+***********Starting run 3******************
+Starting program
+2697
+Mean average score is 0.538994 
+Average score is 1453.666667
+Mean average score is 0.453838 
+Average score is 1224.000000
+************End********************************
+***********Starting run 4******************
+Starting program
+2687
+Mean average score is 0.532936 
+Average score is 1432.000000
+Mean average score is 0.442129 
+Average score is 1188.000000
+************End********************************
+***********Starting run 5******************
+Starting program
+2628
+Mean average score is 0.511923 
+Average score is 1345.333333
+Mean average score is 0.421233 
+Average score is 1107.000000
+************End********************************
+***********Starting run 6******************
+Starting program
+2746
+Mean average score is 0.515659 
+Average score is 1416.000000
+Mean average score is 0.418427 
+Average score is 1149.000000
+************End********************************
+***********Starting run 7******************
+Starting program
+2643
+Mean average score is 0.512549 
+Average score is 1354.666667
+Mean average score is 0.427923 
+Average score is 1131.000000
+************End********************************
+***********Starting run 8******************
+Starting program
+2611
+Mean average score is 0.554960 
+Average score is 1449.000000
+Mean average score is 0.459594 
+Average score is 1200.000000
+************End********************************
+***********Starting run 9******************
+Starting program
+2610
+Mean average score is 0.504470 
+Average score is 1316.666667
+Mean average score is 0.403448 
+Average score is 1053.000000
+************End********************************
+***********Starting run 10******************
+Starting program
+2663
+Mean average score is 0.547628 
+Average score is 1458.333333
+Mean average score is 0.460759 
+Average score is 1227.000000
+************End********************************
+***********Starting run 11******************
+Starting program
+2634
+Mean average score is 0.557074 
+Average score is 1467.333333
+Mean average score is 0.462415 
+Average score is 1218.000000
+************End********************************
+***********Starting run 12******************
+Starting program
+2617
+Mean average score is 0.565278 
+Average score is 1479.333333
+Mean average score is 0.472297 
+Average score is 1236.000000
+************End********************************
+***********Starting run 13******************
+Starting program
+2668
+Mean average score is 0.574213 
+Average score is 1532.000000
+Mean average score is 0.488006 
+Average score is 1302.000000
+************End********************************
+***********Starting run 14******************
+Starting program
+2631
+Mean average score is 0.529710 
+Average score is 1393.666667
+Mean average score is 0.435576 
+Average score is 1146.000000
+************End********************************
+***********Starting run 15******************
+Starting program
+2744
+Mean average score is 0.532313 
+Average score is 1460.666667
+Mean average score is 0.437318 
+Average score is 1200.000000
+************End********************************
+***********Starting run 16******************
+Starting program
+2531
+Mean average score is 0.546293 
+Average score is 1382.666667
+Mean average score is 0.457527 
+Average score is 1158.000000
+************End********************************
+***********Starting run 17******************
+Starting program
+2715
+Mean average score is 0.522161 
+Average score is 1417.666667
+Mean average score is 0.430939 
+Average score is 1170.000000
+************End********************************
+***********Starting run 18******************
+Starting program
+2695
+Mean average score is 0.552381 
+Average score is 1488.666667
+Mean average score is 0.466419 
+Average score is 1257.000000
+************End********************************
+***********Starting run 19******************
+Starting program
+2662
+Mean average score is 0.520160 
+Average score is 1384.666667
+Mean average score is 0.431630 
+Average score is 1149.000000
+************End********************************
+***********Starting run 20******************
+Starting program
+2643
+Mean average score is 0.509396 
+Average score is 1346.333333
+Mean average score is 0.415437 
+Average score is 1098.000000
+************End********************************
+***********Starting run 21******************
+Starting program
+2640
+Mean average score is 0.521086 
+Average score is 1375.666667
+Mean average score is 0.427273 
+Average score is 1128.000000
+************End********************************
+***********Starting run 22******************
+Starting program
+2694
+Mean average score is 0.509404 
+Average score is 1372.333333
+Mean average score is 0.417595 
+Average score is 1125.000000
+************End********************************
+***********Starting run 23******************
+Starting program
+2720
+Mean average score is 0.529412 
+Average score is 1440.000000
+Mean average score is 0.446691 
+Average score is 1215.000000
+************End********************************
+***********Starting run 24******************
+Starting program
+2643
+Mean average score is 0.489217 
+Average score is 1293.000000
+Mean average score is 0.398411 
+Average score is 1053.000000
+************End********************************
+***********Starting run 25******************
+Starting program
+2661
+Mean average score is 0.507829 
+Average score is 1351.333333
+Mean average score is 0.419391 
+Average score is 1116.000000
+************End********************************
+***********Starting run 26******************
+Starting program
+2681
+Mean average score is 0.563969 
+Average score is 1512.000000
+Mean average score is 0.465498 
+Average score is 1248.000000
+************End********************************
+***********Starting run 27******************
+Starting program
+2677
+Mean average score is 0.538165 
+Average score is 1440.666667
+Mean average score is 0.450504 
+Average score is 1206.000000
+************End********************************
+***********Starting run 28******************
+Starting program
+2702
+Mean average score is 0.523686 
+Average score is 1415.000000
+Mean average score is 0.439674 
+Average score is 1188.000000
+************End********************************
+***********Starting run 29******************
+Starting program
+2597
+Mean average score is 0.548197 
+Average score is 1423.666667
+Mean average score is 0.458606 
+Average score is 1191.000000
+************End********************************
+***********Starting run 30******************
+Starting program
+2659
+Mean average score is 0.533409 
+Average score is 1418.333333
+Mean average score is 0.441143 
+Average score is 1173.000000
+************End********************************
+***********Starting run 31******************
+Starting program
+2639
+Mean average score is 0.541998 
+Average score is 1430.333333
+Mean average score is 0.442213 
+Average score is 1167.000000
+************End********************************
+***********Starting run 32******************
+Starting program
+2631
+Mean average score is 0.530343 
+Average score is 1395.333333
+Mean average score is 0.441277 
+Average score is 1161.000000
+************End********************************
+***********Starting run 33******************
+Starting program
+2714
+Mean average score is 0.514861 
+Average score is 1397.333333
+Mean average score is 0.431098 
+Average score is 1170.000000
+************End********************************
+***********Starting run 34******************
+Starting program
+2608
+Mean average score is 0.512653 
+Average score is 1337.000000
+Mean average score is 0.424463 
+Average score is 1107.000000
+************End********************************
+***********Starting run 35******************
+Starting program
+2732
+Mean average score is 0.533309 
+Average score is 1457.000000
+Mean average score is 0.445827 
+Average score is 1218.000000
+************End********************************
+***********Starting run 36******************
+Starting program
+2610
+Mean average score is 0.512771 
+Average score is 1338.333333
+Mean average score is 0.420690 
+Average score is 1098.000000
+************End********************************
+***********Starting run 37******************
+Starting program
+2660
+Mean average score is 0.551253 
+Average score is 1466.333333
+Mean average score is 0.452256 
+Average score is 1203.000000
+************End********************************
+***********Starting run 38******************
+Starting program
+2580
+Mean average score is 0.546641 
+Average score is 1410.333333
+Mean average score is 0.453488 
+Average score is 1170.000000
+************End********************************
+***********Starting run 39******************
+Starting program
+2696
+Mean average score is 0.487389 
+Average score is 1314.000000
+Mean average score is 0.398368 
+Average score is 1074.000000
+************End********************************
+***********Starting run 40******************
+Starting program
+2602
+Mean average score is 0.522931 
+Average score is 1360.666667
+Mean average score is 0.431207 
+Average score is 1122.000000
+************End********************************
+***********Starting run 41******************
+Starting program
+2640
+Mean average score is 0.530934 
+Average score is 1401.666667
+Mean average score is 0.434091 
+Average score is 1146.000000
+************End********************************
+***********Starting run 42******************
+Starting program
+2786
+Mean average score is 0.505504 
+Average score is 1408.333333
+Mean average score is 0.421034 
+Average score is 1173.000000
+************End********************************
+***********Starting run 43******************
+Starting program
+2589
+Mean average score is 0.551951 
+Average score is 1429.000000
+Mean average score is 0.461182 
+Average score is 1194.000000
+************End********************************
+***********Starting run 44******************
+Starting program
+2712
+Mean average score is 0.515733 
+Average score is 1398.666667
+Mean average score is 0.428097 
+Average score is 1161.000000
+************End********************************
+***********Starting run 45******************
+Starting program
+2682
+Mean average score is 0.509819 
+Average score is 1367.333333
+Mean average score is 0.422819 
+Average score is 1134.000000
+************End********************************
+***********Starting run 46******************
+Starting program
+2517
+Mean average score is 0.511058 
+Average score is 1286.333333
+Mean average score is 0.423123 
+Average score is 1065.000000
+************End********************************
+***********Starting run 47******************
+Starting program
+2684
+Mean average score is 0.543840 
+Average score is 1459.666667
+Mean average score is 0.468331 
+Average score is 1257.000000
+************End********************************
+***********Starting run 48******************
+Starting program
+2653
+Mean average score is 0.504083 
+Average score is 1337.333333
+Mean average score is 0.413871 
+Average score is 1098.000000
+************End********************************
+***********Starting run 49******************
+Starting program
+2673
+Mean average score is 0.529118 
+Average score is 1414.333333
+Mean average score is 0.438833 
+Average score is 1173.000000
+************End********************************
+***********Starting run 50******************
+Starting program
+2722
+Mean average score is 0.533431 
+Average score is 1452.000000
+Mean average score is 0.444159 
+Average score is 1209.000000
+************End********************************

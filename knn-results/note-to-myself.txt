@@ -1,0 +1,6 @@
+THis folder contains relevenat results
+
+1. Train grid : random-partiton into 3 parts
+2. Prediction results : sub_results.csv
+3 Data sets : are in the data set folder
+4. COrresponding script is in the same folder

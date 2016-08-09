@@ -1,0 +1,7 @@
+***This is the score given by the hold out data set in the random sampling method***************
+
+Mean average score is 0.565141 
+Average score is 1493.666667
+Mean average score is 0.475596 
+Average score is 1257.000000
+
